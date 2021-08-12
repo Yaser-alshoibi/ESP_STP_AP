@@ -17,7 +17,7 @@ I used javascript to generate a JSON file and send it to the ESP which will rece
 
 <br>
 
-# Storing SSIS and Password
+# Storing SSID and Password
 
 Storing WiFi settings in flash memory of the ESP has some advantages and disadvantages:
 - The ESP will remember and try to connect to the network automatically after restarting the ESP and will run in AP mode only if the network is not available.
